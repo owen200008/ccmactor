@@ -1,0 +1,6 @@
+[submodule "3rd/cclockfreequeue"]
+	path = 3rd/cclockfreequeue
+	url = https://github.com/owen200008/cclockfreequeue.git
+[submodule "3rd/ccorutine"]
+	path = 3rd/ccorutine
+	url = https://github.com/owen200008/ccorutine.git
